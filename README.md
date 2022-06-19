@@ -1,1 +1,1 @@
-Build a single-page responsive registration form using the design
+Responsiveness and Media Queries
